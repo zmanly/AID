@@ -2,8 +2,8 @@
     内置高阶函数
     练习:exercise02.py
 """
-from common.list_helper import ListHelper
-
+从 共同的。list_helper  import  ListHelper
+aaa
 
 class Enemy:
     def __init__(self, name, hp,atk=None, defense=None):
